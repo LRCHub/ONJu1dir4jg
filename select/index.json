@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ゼロ",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-03T01:05:25.443384Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ペイシェント・ゼロ",
+      "artist": "Hammerfall",
+      "has_synced": false,
+      "path": "select/01_ペイシェント・ゼロ_Hammerfall.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ゼロ",
+      "artist": "Ohashi Trio",
+      "has_synced": false,
+      "path": "select/02_ゼロ_Ohashi_Trio.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ゼロ",
+      "artist": "大橋トリオ",
+      "has_synced": false,
+      "path": "select/03_ゼロ_大橋トリオ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ゼロ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_ゼロ_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Zero [ゼロ]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_Zero_[ゼロ]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "グラウンド・ゼロ",
+      "artist": "Septicflesh",
+      "has_synced": false,
+      "path": "select/06_グラウンド・ゼロ_Septicflesh.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ゼロ ユニバース",
+      "artist": "Sayaka Yamamoto",
+      "has_synced": true,
+      "path": "select/07_ゼロ_ユニバース_Sayaka_Yamamoto.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ゼロ - Zero",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/08_ゼロ_-_Zero_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ゼロ",
+      "artist": "bump of chicken",
+      "has_synced": true,
+      "path": "select/09_ゼロ_bump_of_chicken.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ゼロ",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/10_ゼロ_Plastic_Tree.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ZERO－ゼロ－",
+      "artist": "MERRY",
+      "has_synced": false,
+      "path": "select/11_ZERO-ゼロ-_MERRY.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ZERO -ゼロ-",
+      "artist": "MERRY",
+      "has_synced": false,
+      "path": "select/12_ZERO_-ゼロ-_MERRY.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゼロ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_ゼロ_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
